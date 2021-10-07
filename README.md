@@ -11,5 +11,4 @@ The dataset for our ACL-IJCNLP 2021 paper [A Large-Scale Chinese Mulitmodal NER 
     booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
     year = "2021"
 }
-
 ```
