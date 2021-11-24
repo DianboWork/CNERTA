@@ -1,5 +1,6 @@
-The dataset for our ACL-IJCNLP 2021 paper [A Large-Scale Chinese Mulitmodal NER Dataset with Speech Clues](https://aclanthology.org/2021.acl-long.218/). We would appreciate it if you cite our paper as following:
+The dataset for our ACL-IJCNLP 2021 paper [A Large-Scale Chinese Mulitmodal NER Dataset with Speech Clues](https://aclanthology.org/2021.acl-long.218/). The corresponding audio file could be found at https://www.openslr.org/33/.
 
+We would appreciate it if you cite our paper as following:
 ```
 @inproceedings{sui-etal-2021-large,
     title = "A Large-Scale {C}hinese Multimodal {NER} Dataset with Speech Clues",
