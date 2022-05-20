@@ -1,4 +1,4 @@
-The dataset for our ACL-IJCNLP 2021 paper [A Large-Scale Chinese Mulitmodal NER Dataset with Speech Clues](https://aclanthology.org/2021.acl-long.218/). The corresponding audio file could be found at https://www.openslr.org/33/.
+The dataset for our ACL-IJCNLP 2021 paper [A Large-Scale Chinese Mulitmodal NER Dataset with Speech Clues](https://aclanthology.org/2021.acl-long.218/). The corresponding audio file could be found at https://www.openslr.org/33/, and the corresponding code could be found at https://github.com/DianboWork/M3T-CNERTA.
 
 We would appreciate it if you cite our paper as following:
 ```
